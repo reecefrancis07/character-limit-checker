@@ -1,23 +1,23 @@
-# Character Limit Checker
+## Character Limit Checker Guide
 
-A writing utility for monitoring character limits.
+This application helps users monitor
+text length against a selected limit.
 
-## Features
+### Main Features
+- Live character counting
+- Character limit monitoring
+- Remaining character calculation
+- Text input validation
 
-- Live character count
-- Custom preset limits
-- Remaining character display
+### How to Use
+1. Enter or paste your text.
+2. Select the character limit.
+3. Review the character count.
+4. Check the remaining characters.
 
-## How to Use
+### Development Notes
+Keep the character count updated
+whenever the input text changes.
 
-Select a limit and enter your text.
-
-## Technologies
-
-- HTML
-- CSS
-- JavaScript
-
-## Running Locally
-
-Open `index.html` in a modern web browser.
+Handle empty text and different
+character types carefully.
