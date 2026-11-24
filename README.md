@@ -21,3 +21,12 @@ whenever the input text changes.
 
 Handle empty text and different
 character types carefully.
+## Manual Testing Checklist
+
+- [ ] Enter text below the selected character limit.
+- [ ] Exceed the limit and verify the warning or remaining count.
+- [ ] Clear the input and confirm the count resets.
+
+### Test Notes
+
+Record the observed result and any reproducible issue after running the tests.
